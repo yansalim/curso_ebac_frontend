@@ -1,0 +1,33 @@
+.title {
+
+
+  text-align: center;
+}
+
+.news-card {
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 10px;
+  
+}
+
+.news1 {
+  background-color: #add8e6;
+}
+
+.news-card:nth-child(2) {
+  background-color: #d3d3d3;
+}
+
+.news-card:nth-child(3) {
+  background-color: #f2ffb6;
+}
+
+.news-card:nth-child(4) {
+  background-color: #90ee90;
+}
+
+.news-card:nth-child(5) {
+  background-color: aqua;
+}
